@@ -1,1 +1,12 @@
-
+body
+{
+    color: aqua;
+    background-color:black;
+    background-image: url(./lbk\ class.jpeg);
+    background-size: cover;
+    background-position: center;
+  
+}
+.item1{
+    color: #7851a9;
+}
